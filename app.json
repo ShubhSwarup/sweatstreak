@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SweatStreak",
+    "slug": "sweatstreak",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "sweatstreak",
+    "userInterfaceStyle": "dark",
+    "splash": { "backgroundColor": "#0d0d0d" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.sweatstreak.app" },
+    "android": { "adaptiveIcon": { "backgroundColor": "#0d0d0d" }, "package": "com.sweatstreak.app" },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}
